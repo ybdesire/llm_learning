@@ -6,3 +6,18 @@ all about large language related
 - [clone llm bin files and utils code](misc/clone_model.md)
 
 
+# 2. chatglm2 inference
+
+
+
+# 3. chatglm2 ptuning
+
+- [ptuning steps](ptuning_chatglm2/ptuning_steps_chatglm2.md)
+- [1GPU.fp16](ptuning_chatglm2/train_chat.1GPU.fp16.sh)
+- [1GPU.int4](ptuning_chatglm2/train_chat.1GPU.int4.sh)
+- [3GPU.fp16](ptuning_chatglm2/train_chat.3GPU.fp16.sh)
+
+# 4. chatglm2 load ptuning model for inference
+
+
+# 5. LLaMA-Factory
