@@ -25,3 +25,4 @@ all about large language related
 # 5. LLaMA-Factory
 - [steps to use LLaMA-Factory fine tuning framework](llama_factory/llama_factory_usage_steps.md)
 - [chatglm2.lora.1gpu.fp16](llama_factory/train.chatglm2.lora.1gpu.fp16.sh)
+- [support multiple dataset](https://github.com/hiyouga/LLaMA-Factory/issues/1297)
