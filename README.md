@@ -1,5 +1,5 @@
 # llm_learning
-all about large language related
+all about LLM (large language model)
 
 
 # 1. model basic and config
