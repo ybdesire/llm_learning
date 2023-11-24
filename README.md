@@ -27,3 +27,8 @@ all about LLM (large language model)
 - [fine tuning chatglm2.lora.1gpu.fp16](llama_factory/train.chatglm2.lora.1gpu.fp16.sh)
 - [load model cli demo chatglm2.lora.1gpu](llama_factory/cli.chatglm2.lora.1gpu.sh)
 - [support multiple dataset](https://github.com/hiyouga/LLaMA-Factory/issues/1297)
+- [mulitple GPU on one node by accelerate](llama_factory/accelerate_4gpu_sft_fp16.sh)
+
+
+
+
