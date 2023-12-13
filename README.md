@@ -30,5 +30,6 @@ all about LLM (large language model)
 - [mulitple GPU on one node by accelerate](llama_factory/accelerate_4gpu_sft_fp16.sh)
 
 
-
+# 6. Prompt tech
+- [persona assignment](prompt/readme.md#1-persona-assignment)
 
