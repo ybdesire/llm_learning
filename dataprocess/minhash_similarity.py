@@ -1,3 +1,6 @@
+# https://ekzhu.com/datasketch/minhash.html
+# https://charent.github.io/p/mini-hash%E6%96%87%E6%A1%A3%E5%8E%BB%E9%87%8D/
+
 from datasketch import MinHash
 # data should like this
 data1 = ['minhash', 'is', 'a', 'probabilistic', 'data', 'structure', 'for',
