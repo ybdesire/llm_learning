@@ -36,6 +36,7 @@ all about LLM (large language model)
 
 # 7. Data Process
 - [Keep Chinese, English and underline, no punctuation](dataprocess/remove_none_ch_en.py)
-
+- [minhash lsh for similarity](dataprocess/minhash_similarity.py)
+- 
 
 
