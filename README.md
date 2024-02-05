@@ -34,9 +34,9 @@ all about LLM (large language model)
 - [persona assignment](prompt/readme.md#1-persona-assignment)
 
 
-# 7. Data Process
+# 7. datasketch: lsh for data process, dup-remove
 - [Keep Chinese, English and underline, no punctuation](dataprocess/remove_none_ch_en.py)
 - [minhash lsh for similarity](dataprocess/minhash_similarity.py)
-- 
+- [lsh cluster](https://github.com/ybdesire/llm_learning/blob/main/dataprocess/datasketch_lsh_cluster.py)
 
 
