@@ -33,3 +33,9 @@ all about LLM (large language model)
 # 6. Prompt tech
 - [persona assignment](prompt/readme.md#1-persona-assignment)
 
+
+# 7. Data Process
+- [Keep Chinese, English and underline, no punctuation](dataprocess/remove_none_ch_en.py)
+
+
+
