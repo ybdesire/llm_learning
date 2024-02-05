@@ -1,5 +1,7 @@
+# reference
 # https://ekzhu.com/datasketch/minhash.html
 # https://charent.github.io/p/mini-hash%E6%96%87%E6%A1%A3%E5%8E%BB%E9%87%8D/
+
 
 from datasketch import MinHash
 # data should like this
@@ -21,3 +23,9 @@ s1 = set(data1)
 s2 = set(data2)
 actual_jaccard = float(len(s1.intersection(s2)))/float(len(s1.union(s2)))
 print("Actual Jaccard for data1 and data2 is", actual_jaccard)#0.7142857142857143
+# print
+h = m1.digest()
+print(type(h))# <class 'numpy.ndarray'>
+print(h.shape)#(128,)
+
+
