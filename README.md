@@ -40,7 +40,7 @@ all about LLM (large language model)
 - [lsh cluster](https://github.com/ybdesire/llm_learning/blob/main/dataprocess/datasketch_lsh_cluster.py)
 
 # 8. fastparquet
-- [read parquet file](fastparquet/read_parquet_file.py)
+- [read parquet file](dataprocess/fastparquet/read_parquet_file.py)
 
 
 
