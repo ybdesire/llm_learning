@@ -45,6 +45,9 @@ all about LLM (large language model)
 # 9. dataset construct
 - [prompt prefix for sft dataset](dataprocess/prompt_prefix_en.py)
 
+# 10. FlagEmbedding 
+- [BGE-M3 embedding for text](flag_embedding/BGEM3.py)
+
 
 
 
