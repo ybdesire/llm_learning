@@ -48,6 +48,12 @@ all about LLM (large language model)
 # 10. FlagEmbedding 
 - [BGE-M3 embedding for text](flag_embedding/BGEM3.py)
 
+# 11. BERT
+- [bert for long text classification](bert/bert_for_long_text_classification.py)
+
+
+
+
 
 
 
