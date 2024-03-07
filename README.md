@@ -51,7 +51,8 @@ all about LLM (large language model)
 # 11. BERT
 - [bert for long text classification](bert/bert_for_long_text_classification.py)
 
-
+# 12. datasets
+- [load and show data structure](datasets/load_parse_cc_news.py)
 
 
 
