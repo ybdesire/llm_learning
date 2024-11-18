@@ -54,7 +54,7 @@ all about LLM (large language model)
 # 12. datasets
 - [load and show data structure](datasets/load_parse_cc_news.py)
 
-
-
+# 13. datasketch
+- [remove duplicated text by minhash for data preprocessing](datasketch/dup_text_remove_by_minhash.py)
 
 
